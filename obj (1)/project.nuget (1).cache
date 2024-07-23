@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "JX7qbJ2U9slerU1PnF3YuXjUoQ52nAQA5B0sbIcRDMZdswoowqOWpYsEI8jOqmgCs3DxS3yzRNblmQLwp2o7Vw==",
+  "success": true,
+  "projectFilePath": "T:\\הנדסת תוכנה\\שנה ב\\קבוצה א\\פיתוח אוטומציה\\שיעור5\\SeleniumProject\\SeleniumProject\\SeleniumProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shufra\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\legacy2cpsworkaround\\1.0.0\\legacy2cpsworkaround.1.0.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\nunit.analyzers\\4.2.0\\nunit.analyzers.4.2.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\nunit.consolerunner\\3.17.0\\nunit.consolerunner.3.17.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.9.0\\nunit.extension.vsprojectloader.3.9.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\selenium.support\\4.22.0\\selenium.support.4.22.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\shufra\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
